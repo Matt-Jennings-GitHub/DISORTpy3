@@ -24,3 +24,9 @@ Use of the program is shown by running:
 ## Examples
 
 See the 'test' directory (coming soon)
+
+Useful for producing Hatch Diagrams:
+
+![alt text](https://ibb.co/nPPqNYT)
+
+Example usage coming soon.
