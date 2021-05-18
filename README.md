@@ -23,8 +23,6 @@ Use of the program is shown by running:
      
 ## Examples
 
-See the 'test' directory (coming soon)
-
 Useful for producing Hatch Diagrams:
 
 ![alt text](https://github.com/Matt-Jennings-GitHub/py3DISORT/blob/main/doc/Figure_1.png)
